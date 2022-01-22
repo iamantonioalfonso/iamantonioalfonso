@@ -10,11 +10,11 @@ I'm working on [HUDI](https://app.humandataincome.com/) project trying to unders
 🕸️ Web3, 🔗 Blockchain, 🐸 crypto, 💸 DeFi and 🥞 dApps
 
 <p align='left'>
-  <a href="" style="margin-right: 10px"><img height="30" src="./assets/logo-linkedin.svg"></a>
-  <a href="" style="margin-right: 10px"><img height="30" src="./assets/logo-medium.svg"></a>
-  <a href="" style="margin-right: 10px"><img height="30" src="./assets/logo-discord.svg"></a>
-  <a href="" style="margin-right: 10px"><img height="30" src="./assets/logo-twitter.svg"></a>
-  <a href="" style="margin-right: 10px"><img height="30" src="./assets/logo-instagram.svg"></a>
+  <a href="https://www.linkedin.com/in/iamantonioalfonso/" style="margin-right: 10px"><img height="30" src="./assets/logo-linkedin.svg"></a>
+  <a href="https://iamantonioalfonso.medium.com/" style="margin-right: 10px"><img height="30" src="./assets/logo-medium.svg"></a>
+  <a href="https://discordapp.com/users/780800070122733598" style="margin-right: 10px"><img height="30" src="./assets/logo-discord.svg"></a>
+  <a href="https://twitter.com/iantonioalfonso" style="margin-right: 10px"><img height="30" src="./assets/logo-twitter.svg"></a>
+  <a href="https://www.instagram.com/iamantonioalfonso/" style="margin-right: 10px"><img height="30" src="./assets/logo-instagram.svg"></a>
 </p>
 
 ---
