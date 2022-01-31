@@ -1,6 +1,3 @@
-# [![Antonio Alfonso header](./assets/hero.webp)](https://antonioalfonso.dev)
-
----
 # Hi 👋, I'm Antonio
 
 Frontend Developer at [Human Data Income Ltd](https://humandataincome.com/). 
